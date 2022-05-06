@@ -1032,6 +1032,9 @@ footer {
   .navbar-inverse .navbar-form {
     border-color: #a8a8a8;
   }
+  .timeline-item {
+    margin-top: 10%;
+  }
 }
 
 @media (max-width: 480px) {
