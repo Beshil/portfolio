@@ -19,7 +19,6 @@
     "Frontend-разработчик · Москва": "Frontend Developer · Moscow",
     "Каталог": "Catalog",
     "Корзина · 0": "Cart · 0",
-    "Москва": "Moscow",
     "Создаю интерфейсы,": "I build interfaces",
     "которыми удобно пользоваться.": "that feel effortless to use.",
     "Я Beshil — JavaScript / React Developer. Разрабатываю адаптивные веб-приложения на React и TypeScript, продумываю состояния интерфейса и поддерживаю понятную структуру кода.": "I'm Beshil, a JavaScript / React Developer. I build responsive React and TypeScript applications, design clear interface states, and keep the codebase maintainable.",
