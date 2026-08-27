@@ -55,3 +55,13 @@ body,.case,.section,.stack,.archive-grid article,.tags li,.stack-list li{transit
 
 @media(max-width:760px){.header-inner{gap:9px}.preferences{margin-left:auto}.nav{margin-left:0}}
 @media(max-width:680px){.brand>span{display:none}}
+
+/* Mobile header and dark-card corrections */
+.menu-btn{position:relative;overflow:hidden;flex:0 0 48px}
+.shop-ui,.shop-ui nav b,.shop-ui nav span,.shop-hero strong,
+.toff-ui,.toff-ui nav b,.toff-ui nav i,.toff-ui>strong{color:#111827}
+.facts{grid-template-columns:repeat(2,1fr)}
+.skip:focus{transform:translateY(-150%)}
+.skip:focus-visible{transform:none}
+@media(hover:none) and (pointer:coarse){.skip:focus{transform:translateY(-150%)}}
+@media(max-width:520px){.facts{grid-template-columns:1fr}}

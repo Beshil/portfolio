@@ -16,7 +16,7 @@
     "Стек": "Stack",
     "Обо мне": "About",
     "Связаться": "Contact",
-    "Frontend-разработчик · Москва": "Frontend Developer · Moscow",
+    "Frontend-разработчик": "Frontend Developer",
     "Каталог": "Catalog",
     "Корзина · 0": "Cart · 0",
     "Создаю интерфейсы,": "I build interfaces",
@@ -72,11 +72,10 @@
     "Развиваюсь через": "I grow through",
     "практику": "practice",
     "и разбор реальных интерфейсов.": "and close study of real interfaces.",
-    "Я JavaScript / React Developer из Москвы. Начал с адаптивной вёрстки, затем перешёл к React-приложениям, управлению состоянием и TypeScript.": "I'm a JavaScript / React Developer based in Moscow. I started with responsive layouts, then moved into React applications, state management, and TypeScript.",
+    "Я JavaScript / React Developer. Начал с адаптивной вёрстки, затем перешёл к React-приложениям, управлению состоянием и TypeScript.": "I'm a JavaScript / React Developer. I started with responsive layouts, then moved into React applications, state management, and TypeScript.",
     "Сейчас фокусируюсь на продуктовой подаче, доступности и архитектуре, которая не мешает развивать интерфейс после первого релиза.": "My current focus is product presentation, accessibility, and architecture that supports continued development after the first release.",
     "начало пути": "frontend journey began",
     "текущий фокус": "current focus",
-    "локация": "location",
     "Контакты": "Contact",
     "Есть задача или вакансия?": "Have a project or a role?",
     "Давайте обсудим.": "Let's talk.",
@@ -90,14 +89,14 @@
   const ui = {
     ru: {
       title: "Beshil — JavaScript / React Developer",
-      description: "Портфолио Beshil — JavaScript и React-разработчика из Москвы. Адаптивные интерфейсы, TypeScript и понятная архитектура приложений.",
+      description: "Портфолио Beshil — JavaScript и React-разработчика. Адаптивные интерфейсы, TypeScript и понятная архитектура приложений.",
       nav: "Основная навигация", preferences: "Настройки сайта", home: "На главную",
       openMenu: "Открыть меню", closeMenu: "Закрыть меню",
       switchLanguage: "Switch to English", dark: "Включить тёмную тему", light: "Включить светлую тему"
     },
     en: {
       title: "Beshil — JavaScript / React Developer",
-      description: "Portfolio of Beshil, a JavaScript and React Developer based in Moscow. Responsive interfaces, TypeScript, and maintainable application architecture.",
+      description: "Portfolio of Beshil, a JavaScript and React Developer. Responsive interfaces, TypeScript, and maintainable application architecture.",
       nav: "Primary navigation", preferences: "Site preferences", home: "Home",
       openMenu: "Open menu", closeMenu: "Close menu",
       switchLanguage: "Переключить на русский", dark: "Enable dark theme", light: "Enable light theme"
